@@ -187,7 +187,7 @@ PS：为了适配CPU，代码部分有点修改
 
 
 
-看看初次训练后的结果：【训练1-1.png】
+看看初次训练后的结果：[训练1-1.png](https://github.com/Lou-uo/classic-replication/blob/main/Transformer/machine-translation-project/训练1-1.png)
 
 ```cmd
 请输入英文:how are you.
@@ -214,7 +214,7 @@ PS：为了适配CPU，代码部分有点修改
 
 不过，应该是可以优化优化的 🧐
 
-同时还发现个问题，就是标点符号竟然会影响翻译【训练1-2.png】
+同时还发现个问题，就是标点符号竟然会影响翻译[训练1-2.png](https://github.com/Lou-uo/classic-replication/blob/main/Transformer/machine-translation-project/训练1-2.png)
 
 ```cmd
 请输入英文:Run!
@@ -260,7 +260,7 @@ PS：为了适配CPU，代码部分有点修改
 
 再加上数据集比较小，效果可能欠佳。
 
-第二次训练的结果【训练2.png】
+第二次训练的结果[训练2.png](https://github.com/Lou-uo/classic-replication/blob/main/Transformer/machine-translation-project/训练2.png)
 
 ```cmd
 请输入英文:how are you
