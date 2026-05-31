@@ -15,8 +15,6 @@ source ~/.bashrc
 conda activate chatchat
 ```
 
-![QQ_1780150220371](QQ_1780150220371.png)
-
 使用官方安装指令
 
 ```bash
